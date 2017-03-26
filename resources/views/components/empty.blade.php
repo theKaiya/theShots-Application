@@ -1,0 +1,1 @@
+<div ng-show="!items.get(section).items.length && !items.spinner" class='alert alert-info'>There's nothing here..</div>
